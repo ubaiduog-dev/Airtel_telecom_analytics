@@ -23,7 +23,7 @@ def q(sql, params=()):                            # every query, here
     finally:                                      # ...then always
         con.close() 
         
-st.title("AIRTEL TELECOM ANALYSIS - muhammed junaid pk")
+st.title("AIRTEL TELECOM ANALYSIS - Ubaidullah Hashim kv")
 st.caption("For the revenue analyst, understanding what money the base "
            "really brings in, and which plans and circles carry it.")
 
